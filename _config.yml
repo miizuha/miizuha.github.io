@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Miz's # the main title
+title: The Miz # the main title
 
-tagline: My personal blog # it will display as the subtitle
+tagline: Em thuộc về cô gái kháccccc...  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Em thuộc về cô gái kháccccc...
+  haha
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -42,8 +42,8 @@ social:
     # https://www.threads.com/@miznguyen7112 # change to your Twitter homepage
     - https://github.com/miizuha # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/miznguyen7112
-    # - https://www.linkedin.com/in/miznguyen7112
+    - https://www.facebook.com/miznguyen7112
+    - https://www.linkedin.com/in/miznguyen7112
 
 # Site Verification Settings
 webmaster_verifications:
