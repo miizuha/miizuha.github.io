@@ -42,8 +42,8 @@ social:
     # https://www.threads.com/@miznguyen7112 # change to your Twitter homepage
     - https://github.com/miizuha # change to your GitHub homepage
     # Uncomment below to add more social links
-    - https://www.facebook.com/miznguyen7112
-    - https://www.linkedin.com/in/miznguyen7112
+    # - https://www.facebook.com/miznguyen7112
+    # - https://www.linkedin.com/in/miznguyen7112
 
 # Site Verification Settings
 webmaster_verifications:
